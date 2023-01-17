@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teriannephillips
 - 👀 I’m interested in networking
 - 🌱 I’m currently learning Full stack bootcamp through Carleton University
-- 💞️ I’m looking to collaborate on anything html and CSS so far. 
+- 💞️ I’m looking to collaborate on anything html, CSS and javascript so far. 
 - 📫 How to reach me - e-mail phillips.terianne@gmail.com
 
 <!---
